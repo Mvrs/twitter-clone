@@ -52,7 +52,7 @@ export function Sidebar() {
             "https://media.licdn.com/dms/image/D5603AQE2MJqyXUhOMw/profile-displayphoto-shrink_400_400/0/1667242045179?e=1679529600&v=beta&t=j9IJtL5XvlZTNkvb6bLK56Bd418rmf1MjicPG4Ev9qA"
           }
           className="h-10 w-10 rounded-full xl:mr-2"
-          alt="Headshot"
+          alt="user-image"
         />
         <div className="leading-5 hidden xl:inline">
           <h4 className="font-bold">Marlon Johnson</h4>
